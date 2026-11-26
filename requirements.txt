@@ -1,0 +1,12 @@
+numpy>=2.0
+pandas>=2.2
+scipy>=1.13
+torch>=2.3          # проверено на torch 2.15 (CPU, bf16-autocast)
+torchvision>=0.18   # нужен для LPIPS (AlexNet)
+lpips>=0.1.4
+pytorch-msssim>=1.0 # только для сверки собственной реализации MS-SSIM
+constriction>=0.4   # энтропийное кодирование (ANS)
+pyarrow>=15
+pillow>=10          # JPEG / WebP для сравнения
+matplotlib>=3.9
+jupyter
