@@ -5,7 +5,8 @@ Learned-кодек изображений на основе **VAE с масшт�
 сравнение четырёх способов увеличения размера тензора в декодере, RD-кривые по MS-SSIM, LPIPS и PSNR в зависимости от BPP,
 сравнение с JPEG и WebP.
 
-📓 **Ноутбук с выполненными ячейками:** [`lab4_vae_celeba_compression.ipynb`](lab4_vae_celeba_compression.ipynb)
+📓 **Ноутбук с выполненными ячейками:** [`lab4_vae_celeba_compression.ipynb`](lab4_vae_celeba_compression.ipynb)  
+📄 **Отчёт по лабораторной работе:** [`report_lab4.pdf`](report_lab4.pdf) — титульный лист, реферат, разделы, выводы, список источников, листинги
 
 ![RD-кривые](artifacts/rd_curves.png)
 
